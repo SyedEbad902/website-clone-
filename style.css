@@ -1,0 +1,435 @@
+.div3 {
+    background-color: royalblue;
+    height: 80px;
+}
+
+.fb {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 90px;
+    top: 30px;
+}
+
+.whatsapp {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 130px;
+    top: 30px;
+}
+
+.twitter {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 170px;
+    top: 30px;
+}
+
+.div1 {
+    width: 700px;
+    height: 80px;
+    margin: 0 auto;
+
+}
+
+p.d1 {
+    color: white;
+}
+
+.b1 {
+    position: absolute;
+    left: 1050px;
+    top: 6px;
+    border-radius:  10px;
+    font-size: 12px;
+    padding: 5px;
+
+}
+
+.b2 {
+    position: absolute;
+    left: 1125px;
+    top: 6px;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 5px;
+
+}
+
+.b3 {
+    position: absolute;
+    left: 1050px;
+    top: 43px;
+    border-radius:10px;
+    font-size: 12px;
+    padding: 5px;
+
+}
+
+.div2 {
+
+    height: 70px;
+    box-shadow: 2px 3px 5px gray;
+}
+
+.saylani {
+    width: 300px;
+    height: 60px;
+}
+
+.home {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 120px;
+    left: 600px;
+}
+
+.about {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 120px;
+    left: 700px;
+}
+
+select#ser {
+    font-size: 15px;
+    position: absolute;
+    top: 120px;
+    left: 800px;
+}
+
+select#fp {
+    font-size: 15px;
+    position: absolute;
+    top: 120px;
+    left: 950px;
+}
+
+.media {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 120px;
+    left: 1150px;
+}
+
+.news {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 120px;
+    left: 1250px;
+}
+
+.int {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-style: oblique;
+}
+
+.line {
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 630px;
+    left: 525px;
+}
+
+.div4 {
+
+
+    width: 800px;
+    margin: auto;
+}
+
+.d2 {
+    font-size: 20px;
+}
+
+.div5 {
+    background-color: royalblue;
+    height: 250px;
+
+}
+
+/* image 1 */
+
+.d3 {
+    border-radius: 40px;
+    width: 60px;
+    position: absolute;
+    top: 1710px;
+    left: 300px;
+}
+
+.p1 {
+    color: white;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 1770px;
+    left: 250px;
+}
+
+.d4 {
+    color: aliceblue;
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+    top: 1820px;
+    left: 210px;
+}
+
+/* image 2 */
+.i4 {
+    border-radius: 40px;
+    width: 60px;
+    position: absolute;
+    top: 1710px;
+    left: 550px;
+}
+
+.p2 {
+    color: white;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 1770px;
+    left: 520px;
+}
+
+.d5 {
+    color: aliceblue;
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+    top: 1820px;
+    left: 505px;
+}
+
+/* image 3 */
+.i5 {
+    border-radius: 40px;
+    width: 60px;
+    position: absolute;
+    top: 1710px;
+    left: 800px;
+}
+
+.p3 {
+    color: white;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 1770px;
+    left: 760px;
+}
+
+.d6 {
+    color: aliceblue;
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+    top: 1820px;
+    left: 785px;
+}
+
+/* IMAGE 4 */
+
+.i6 {
+    border-radius: 40px;
+    width: 60px;
+    position: absolute;
+    top: 1710px;
+    left: 1000px;
+}
+
+.p4 {
+    color: white;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 1770px;
+    left: 960px;
+}
+
+.d7 {
+    color: aliceblue;
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+    top: 1810px;
+    left: 970px;
+}
+
+.P5 {
+    color: royalblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 50px;
+    left: 450px;
+
+}
+
+/* box 1 */
+.div6 {
+    width: 260px;
+    height: 150px;
+    box-shadow: 0px 0px 5px gray;
+    margin: 70px;
+    margin-left: 225px;
+    background-color: whitesmoke;
+}
+
+.i7 {
+    border-radius: 40px;
+    width: 130px;
+    position: relative;
+    left: 70px;
+    top: 10px;
+
+
+}
+
+.d8 {
+    color: royalblue;
+    margin-left: 35px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+/* box 2 */
+.div7 {
+    width: 260px;
+    height: 150px;
+    margin-left: 535px;
+    box-shadow: 0px 0px 5px gray;
+    position: absolute;
+    top: 2000px;
+    background-color: whitesmoke;
+
+
+}
+
+.i8{
+    border-radius: 40px;
+    width: 80px; 
+    position: relative;
+    left: 95px;
+    top: 20px;
+    
+    
+}
+.d9{
+    color: royalblue;
+    margin-left: 80Px;
+    margin-top: 25px;
+    font-size: 25px;
+} 
+/* BOX3 */
+.div8 {
+    width: 260px;
+    height: 150px;
+    margin-left: 845px;
+    box-shadow: 0px 0px 5px gray;
+    position: absolute;
+    top: 2000px;
+    background-color: whitesmoke;
+}
+
+.i9{
+    border-radius: 50px;
+    width: 80px; 
+    position: relative;
+    left: 90px;  
+    top: 20px;
+}
+.d10{
+    color: royalblue;
+    margin-left: 80Px;
+margin-top: 25px;
+    font-size: 25px;
+} 
+/* box 4 */
+
+.div9 {
+    width: 260px;
+    height: 150px;
+    box-shadow: 0px 0px 5px gray;
+    position:absolute;
+    top: 2200px;
+    margin-left: 225px;
+    background-color: whitesmoke;
+}
+.i10 {
+    border-radius: 40px;
+    width: 110px;
+    position: relative;
+    left: 80px;
+    top: 2px;
+}
+.d11 {
+    color: royalblue;
+    margin-left: 35px;
+    margin-top: 0px;
+    font-size: 25px;
+}
+/* box 5; */
+
+.div10 {
+    width: 260px;
+    height: 150px;
+    margin-left: 535px;
+    box-shadow: 0px 0px 5px gray;
+    position: absolute;
+    top: 2200px;
+    background-color: whitesmoke;
+
+}
+ 
+.i11{
+    border-radius: 40px;
+    width: 70px; 
+    position: relative;
+    left: 95px;
+    top: 25px;
+    
+    
+}
+ .d12{ 
+    color: royalblue;
+    margin-left: 70Px;
+    margin-top: 35px;
+    font-size: 25px;
+}
+/* BOX 6 */
+.div11 {
+    width: 260px;
+    height: 150px;
+    margin-left: 845px;
+    box-shadow: 0px 0px 5px gray;
+    position: absolute;
+    top: 2200px;
+    background-color: whitesmoke;
+}
+.i12{
+    border-radius: 50px;
+    width: 85px; 
+    position: relative;
+    left: 90px;  
+    top: 15px;
+}
+.d13{
+    color: royalblue;
+    margin-left: 70Px;
+    margin-top: 25px;
+    font-size: 25px;
+} 
